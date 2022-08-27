@@ -1,4 +1,4 @@
-package ru.bvkuchin.annotations;
+package ru.bvkuchin.tester.annotations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,4 +1,4 @@
-package ru.bvkuchin;
+package ru.bvkuchin.testedclass;
 
 public class Calculator {
 
